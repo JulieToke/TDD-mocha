@@ -1,0 +1,27 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "A repo to try Test Driven Design by writing tests to help refine the writing of the implementation code",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+ 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulieToke/TDD-mocha.git"
+  },
+  "keywords": [
+    "TDD",
+    "mocha"
+  ],
+  "author": "Julie Toke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulieToke/TDD-mocha/issues"
+  },
+  "homepage": "https://github.com/JulieToke/TDD-mocha#readme"
+}
